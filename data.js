@@ -4,7 +4,7 @@ window.SITE_DATA = {
   subtitle: "text",
   description: "Welcome to Itz we guyz!1.",
   heroLogo: "../assets/Smilelandium.png",
-  avatar: "../assets/profile.png",
+  avatar: "../assets/Icon.png",
 
   nav: [
     { href: "../home/", label: "HOME", page: "home" },
@@ -52,7 +52,7 @@ window.SITE_DATA = {
 
   team: [
     {
-      title: "Ssmiles",
+      title: "Sssmmilles",
       text: "Owner / Founder",
       image: "../assets/team-1.png",
       status: "LEAD"
