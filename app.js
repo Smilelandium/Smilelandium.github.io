@@ -105,7 +105,6 @@
 
           <div class="brand-text">
             <div class="brand-version">${escapeHtml(DATA.version)}</div>
-            <div class="brand-title">SMILELANDIUM</div>
             <div class="brand-sub">.GITHUB.IO</div>
           </div>
         </div>

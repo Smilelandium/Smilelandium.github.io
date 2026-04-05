@@ -1,7 +1,7 @@
 window.SITE_DATA = {
- // siteName: "SMILELANDIUM",
-  version: "v1.0.0",
-  subtitle: "text",
+  siteName: "SMILELANDIUM",
+  version: "v1.0.1",
+  subtitle: "",
   description: "Welcome to Itz we guyz!1.",
   heroLogo: "../assets/Smilelandium.png",
   avatar: "../assets/Icon.png",
@@ -22,7 +22,7 @@ window.SITE_DATA = {
 
   games: [
     {
-      title: "CHAOTIC BATTLеz",
+      title: "CHAOTIC BATTLEz",
       text: "Arena game with fast combat and chaotic pacing.",
       image: "../assets/game-chaotic-battlez.png",
       status: "PLAY"
@@ -37,31 +37,19 @@ window.SITE_DATA = {
 
   projects: [
     {
-      title: "Project One",
-      text: "Main public project page with active updates.",
+      title: "none",
+      text: "none",
       image: "../assets/project-1.png",
-      status: "ACTIVE"
-    },
-    {
-      title: "Project Two",
-      text: "Experimental project or prototype section.",
-      image: "../assets/project-2.png",
-      status: "WIP"
+      status: "none"
     }
   ],
 
   team: [
     {
       title: "Sssmmilles",
-      text: "Owner / Founder",
+      text: "Owner",
       image: "../assets/team-1.png",
       status: "LEAD"
-    },
-    {
-      title: "Member",
-      text: "Developer / Designer",
-      image: "../assets/team-2.png",
-      status: "TEAM"
     }
   ]
 };
