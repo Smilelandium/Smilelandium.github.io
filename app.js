@@ -139,11 +139,11 @@
             </div>
 
             <div class="quick-links">
-              <a class="small-btn" href="#">Roblox</a>
-              <a class="small-btn" href="#">Telegram</a>
+              <a class="small-btn" href="https://www.roblox.com/communities/35162017">Roblox</a>
+              <a class="small-btn" href="https://t.me/Smilelandium">Telegram</a>
             </div>
 
-            <a class="discord-btn" href="#">Discord</a>
+            <a class="discord-btn" href="https://discord.gg/4tZgcEUP8T">Discord</a>
           </div>
         </div>
       </div>
