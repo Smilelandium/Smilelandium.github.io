@@ -87,10 +87,10 @@ a {
 }
 
 .github-btn {
-  width: 74px;
-  height: 74px;
+  width: 68px;
+  height: 68px;
   border-radius: 12px;
-  background: #4b4b4b;
+  background: #333333;
   display: grid;
   place-items: center;
   flex: 0 0 auto;
@@ -99,12 +99,12 @@ a {
 
 .github-btn:hover {
   transform: scale(1.12);
-  background: #5a5a5a;
+  background: #424242;
 }
 
 .github-btn svg {
-  width: 64px;
-  height: 64px;
+  width: 58px;
+  height: 58px;
   fill: #fff;
 }
 
@@ -186,7 +186,7 @@ a {
 
 .discord-btn {
   width: 100%;
-  min-height: 32px;
+  min-height: 42px; 
   border-radius: 6px;
   background: #6f9df3;
   color: #fff;
@@ -275,8 +275,8 @@ a {
 }
 
 .card {
-  background: #5a5a5a;
-  border: 1px solid #6a6a6a;
+  background: #494949;
+  border: 1px solid #595959;
   border-radius: 14px;
   overflow: hidden;
   box-shadow: var(--shadow);
@@ -284,7 +284,7 @@ a {
 
 .card-media {
   aspect-ratio: 16 / 9;
-  background: #9a9a9a;
+  background: #545454;
   display: grid;
   place-items: center;
   position: relative;
