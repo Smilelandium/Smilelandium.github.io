@@ -67,19 +67,19 @@ a {
 }
 
 .brand-version {
-  font-size: 20px;
+  font-size: 24px;
   color: #a9a9a9;
   margin-bottom: 3px;
   width: fit-content;
   border-bottom: 2px solid #7d7d7d;
-  padding-bottom: 2px;
+  padding-bottom: 1px;
   font-weight: 600;
   font-family:'Montserrat'
 }
 
 .brand-sub {
   font-size: 46px;
-  color: #d4d4d4;
+  color: #d1d1d1;
   margin-top: 0px;
   white-space: nowrap;
   font-weight: 700;
