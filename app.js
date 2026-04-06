@@ -110,7 +110,7 @@
         </div>
 
         <a class="github-btn"
-           href="https://github.com/Smilelandium/images/Smilelandium.Github.io"
+           href="https://github.dev/Smilelandium/Smilelandium.Github.io"
            target="_blank"
            rel="noreferrer"
            aria-label="GitHub repository">
