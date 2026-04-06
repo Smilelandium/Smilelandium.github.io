@@ -184,26 +184,24 @@
              onerror="this.style.display='none'">
         <div class="hero-copy">${escapeHtml(DATA.subtitle)}</div>
       </section>
+      <div class="section-title">GAMES</div>
     `;
   }
 
   function renderGames() {
     return `
-      <div class="section-title">GAMES</div>
       ${renderCards(DATA.games, "games")}
     `;
   }
 
   function renderProjects() {
     return `
-      <div class="section-title">PROJECTS</div>
       ${renderCards(DATA.projects, "projects")}
     `;
   }
 
   function renderTeam() {
     return `
-      <div class="section-title">TEAM</div>
       ${renderCards(DATA.team, "team")}
     `;
   }
