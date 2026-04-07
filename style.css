@@ -80,20 +80,20 @@ a {
   outline-offset: 1px;
   outline-width: 1.6px;
   text-underline-offset: 3px;
-  text-underline-position: unset 2px;
+  text-underline-position: unset 1px;
   font-family:'Montserrat';
-  margin-left: -6px;
+  margin-left: -5px;
 }
 
 .brand-sub {
-  font-size: 59px;
+  font-size: 61px;
   color: #d1d1d1;
   margin-top: 0px;
   white-space: nowrap;
   font-weight: 700;
   font-family:'Montserrat';
-  margin-left: -5px;
-  margin-top: -6px;
+  margin-left: -6px;
+  margin-top: -8px;
 }
 
 .github-btn {
@@ -196,7 +196,7 @@ a {
 }
 
 .small-btn:hover {
-  transform: scale(1.03);
+  transform: scale(1.05);
   background: #6f8cc3;
 }
 
