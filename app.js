@@ -188,17 +188,18 @@
     `;
   }
 
+  function renderCommunity() {
+    return `
+      ${renderCards(DATA.projects, "community")}
+    `;
+  }
+  
   function renderGames() {
     return `
       ${renderCards(DATA.games, "games")}
     `;
   }
 
-  function renderProjects() {
-    return `
-      ${renderCards(DATA.projects, "projects")}
-    `;
-  }
 
   function renderTeam() {
     return `

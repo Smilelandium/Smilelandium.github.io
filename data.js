@@ -1,6 +1,6 @@
 window.SITE_DATA = {
   siteName: "SMILELANDIUM",
-  version: "v1.0.006",
+  version: "v1.0.007",
   subtitle: "Welcome to smilelandium! bro leave from the website not finished.",
   description: "Itz we guyz!1.",
   heroLogo: "../assets/images/SmilelandiumWhite.png",
@@ -41,13 +41,13 @@ window.SITE_DATA = {
     }
   ],
 
-  projects: [
+  community: [
     {
-      title: "none",
-      text: "none",
-      image: "../assets/project-1.png",
-      status: "none"
-    }
+      title: "Sssmmilles",
+      text: "Creator of Smilelandium, bla bla bla",
+      image: "../assets/team-1.png",
+      status: "Owner"
+    } 
   ],
 
   team: [
