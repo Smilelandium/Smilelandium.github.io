@@ -75,7 +75,7 @@ a {
   width: fit-content;
   border-bottom: 2px solid #6f6b75;
   border-right-width: 1px;
-  padding-top: -1px;
+  magrin-top: 3px;
   font-weight: 700;
   outline-offset: 1px;
   outline-width: 1.6px;
