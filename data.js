@@ -1,6 +1,6 @@
 window.SITE_DATA = {
   siteName: "SMILELANDIUM",
-  version: "v1.0.011",
+  version: "v1.0.012",
   subtitle: "Welcome to smilelandium! bro leave from the website not finished.",
   description: "Itz we guyz!1.",
   heroLogo: "../assets/images/SmilelandiumWhite.png",
@@ -28,7 +28,7 @@ window.SITE_DATA = {
       status: "Owner"
     }     
   ],
-  
+
   games: [
     {
       title: "CHAOTIC BATTLEz",

@@ -65,7 +65,7 @@ a {
   object-fit: contain;
   margin-top: 7px;
   flex: 0 0 auto;
-  margin-left: -5px;
+  margin-left: -6px;
 }
 
 .brand-version {
@@ -82,7 +82,7 @@ a {
   text-underline-offset: 3px;
   text-underline-position: unset 2px;
   font-family:'Montserrat';
-  margin-left: -7px;
+  margin-left: -6px;
 }
 
 .brand-sub {
@@ -90,10 +90,10 @@ a {
   color: #d1d1d1;
   margin-top: 0px;
   white-space: nowrap;
-  font-weight: 600;
+  font-weight: 700;
   font-family:'Montserrat';
   margin-left: -5px;
-  margin-top: -5px;
+  margin-top: -6px;
 }
 
 .github-btn {
