@@ -1,6 +1,6 @@
 window.SITE_DATA = {
   siteName: "SMILELANDIUM",
-  version: "v1.0.010",
+  version: "v1.0.011",
   subtitle: "Welcome to smilelandium! bro leave from the website not finished.",
   description: "Itz we guyz!1.",
   heroLogo: "../assets/images/SmilelandiumWhite.png",
@@ -20,6 +20,15 @@ window.SITE_DATA = {
 
   announcementsIndex: "../announcements/index.json",
 
+  community: [
+    {
+      title: "Sssmmilles",
+      text: "Creator of Smilelandium, bla bla bla",
+      image: "../assets/team-1.png",
+      status: "Owner"
+    }     
+  ],
+  
   games: [
     {
       title: "CHAOTIC BATTLEz",
@@ -27,6 +36,7 @@ window.SITE_DATA = {
       image: "../assets/CBz-Banner.png",
       status: "Frozen"
     },
+  
     {
       title: "Astral Ground",
       text: "unknown.",
@@ -41,14 +51,6 @@ window.SITE_DATA = {
     }
   ],
 
-  community: [
-    {
-      title: "Sssmmilles",
-      text: "Creator of Smilelandium, bla bla bla",
-      image: "../assets/team-1.png",
-      status: "Owner"
-    } 
-  ],
 
   team: [
     {
