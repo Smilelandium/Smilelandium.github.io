@@ -190,7 +190,7 @@
 
   function renderCommunity() {
     return `
-      ${renderCards(DATA.projects, "community")}
+      ${renderCards(DATA.community, "community")}
     `;
   }
   

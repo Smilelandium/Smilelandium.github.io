@@ -22,10 +22,10 @@ window.SITE_DATA = {
 
   community: [
     {
-      title: "Sssmmilles",
-      text: "Creator of Smilelandium, bla bla bla",
+      title: "test",
+      text: "test",
       image: "../assets/team-1.png",
-      status: "Owner"
+      status: "test"
     }     
   ],
 
